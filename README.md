@@ -1,6 +1,7 @@
 InstaMaterial
 =============
-
+I am not the original developer of the InstaMaterial - I just used this to build my own project
+Credits  - https://github.com/frogermcs
 ### Updated
 
 Current source code contains UI elements from [Design Support Library](http://android-developers.blogspot.com/2015/05/android-design-support-library.html). If you still want to see how custom implementations of e.g. Floating Action Button or Navigation drawer work, just checkout this source code on tag [Post 8](https://github.com/frogermcs/InstaMaterial/tree/Post-8).
